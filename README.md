@@ -2,6 +2,6 @@
 
 The credtis for main page, project, asset, Aioewa, and continue.
 
-Credtis: [credtis.stio.studio](https://credtis.stio.studio)
+Credtis: [credits.stio.studio](https://credits.stio.studio)
 <br>
 Main page: [stio.studio](https://stio.studio)
