@@ -12,7 +12,7 @@ If you have contributed to stio.studio and you are not credited, you can report 
 ## Credits
 
 ### Owner
-* [stio_studio (website)](https://stio_studio)
+* [stio_studio (website)](https://stio.studio)
 
 ### Assets
 * [asset.stio.studio/font.ttf](https://asset.stio.studio/font.ttf): [google fonts](https://fonts.google.com/specimen/Recursive?query=recur)
