@@ -20,7 +20,7 @@ If you have contributed to stio.studio and you are not credited, you can report 
 (Everyting that is not credited here for [assets.stio.studio](https://assets.stio.studio/) should be made by [stio_studio](https://stio_studio/). If not, please report it to [report@stio.studio](mailto:report@stio.studio))
 * [/font.ttf](https://asset.stio.studio/font.ttf): [google fonts](https://fonts.google.com/specimen/Recursive?query=recur)
 
-### Share sup domains (owning it)
+### Share sub domains (owning it)
 * [sychamis.stio.studio](https://sychamis.stio.studio/): [sychamis (on github)](https://github.com/sychamis)
 * [nikeedev.stio.studio](https://nikeedev.stio.studio/): [nikeedev (on github)](https://github.com/nikeedev/)
 
