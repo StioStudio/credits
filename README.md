@@ -15,7 +15,6 @@ If you have contributed to stio.studio and you are not credited, you can report 
 
 ### Owner
 * [stio_studio (website)](https://stio.studio)
-
 ### Assets
 (Everyting that is not credited here for [assets.stio.studio](https://assets.stio.studio/) should be made by [stio_studio](https://stio_studio/). If not, please report it to [report@stio.studio](mailto:report@stio.studio))
 * [/font.ttf](https://asset.stio.studio/font.ttf): [google fonts](https://fonts.google.com/specimen/Recursive?query=recur)
